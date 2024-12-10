@@ -9,31 +9,7 @@ Plan the journey of your dreams quickly and easily. 🌟
 - Booking and payment
 
 ## 🛠️ Technologies
-- Vue 3
-- Vue Router
-- Pinia for state management
+- HTML
+- CSS
+- Vanila JS
 
-## 🖥️ How to Run the Project?
-
-### Install dependencies:
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-## 📦 Future Plans
-- Add responsive design
-- Enhance route filters
-- Integrate with map services
